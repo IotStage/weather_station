@@ -1,0 +1,3 @@
+Mini station météo avec arduino. 
+Capteurs : anémomètre, girouette, pyranomètre, capteur de température et d'humidité.
+Module de communication: Radio Frequency, 433MHz
